@@ -1,0 +1,2 @@
+C:\Users\usuario\Documents\Visual Studio 2005\Projects\Consultorio2013\Consultorio2013\obj\Debug\Consultorio2013.exe
+C:\Users\usuario\Documents\Visual Studio 2005\Projects\Consultorio2013\Consultorio2013\obj\Debug\Consultorio2013.pdb
