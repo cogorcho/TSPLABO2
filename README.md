@@ -5,7 +5,7 @@ TSP Laboratorio 2 Winforms Consultorio
 
 Proyecto del cuatrimestre.
 
-Se agregaron los archivos. Finalmente puse usar el git bash!
+Se agregaron los archivos. Finalmente pude usar el git bash!
 
 1. Cree el dir C:/workspace/TSPLABO2
 2. Copie el proyecto completo ahi
